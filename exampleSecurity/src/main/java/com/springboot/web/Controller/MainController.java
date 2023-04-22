@@ -14,9 +14,11 @@ public class MainController {
 	
 	@RequestMapping("/courses")
 	
-		public String courses() {
+		public String a() {
 			return "courses";
 		}
+	
+
 	
 	
 }
